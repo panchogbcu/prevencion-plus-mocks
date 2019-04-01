@@ -5,31 +5,26 @@
 			heading: 'Empresas',
 			icon: 'store',
 			link: 'empresas',
-			pages: []
 		},
 		{
 			heading: 'Empresa',
 			icon: 'store',
-			link: 'empresa',
-			pages: []
+			link: 'empresa'
 		},
 		{
 			heading: 'Trabajadores',
 			icon: 'assignment_ind',
-			link: 'trabajadores',
-			pages: []
+			link: 'trabajadores'
 		},
 		{
 			heading: 'Trabajador',
 			icon: 'account_circle',
-			link: 'trabajador',
-			pages: []
+			link: 'trabajador'
 		},
 		{
 			heading: 'Reconocimiento Medico',
 			icon: 'healing',
-			link: 'reconocimiento-medico',
-			pages: []
+			link: 'reconocimiento-medico'
 		}
 	],
 	"profile":
