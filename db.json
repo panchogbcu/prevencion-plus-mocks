@@ -3,7 +3,7 @@
 		{
 			heading: 'Empresas',
 			icon: 'store',
-			link: 'empresas',
+			link: 'empresas'
 		},
 		{
 			heading: 'Empresa',
